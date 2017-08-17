@@ -1,0 +1,16 @@
+{
+  "name": "react-from-scratch",
+  "version": "0.0.1",
+  "description": "Own bootstrap react application from scratch",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Blizard/react-tutorial/tree/master/from-scratch",
+    "type": "git"
+  },
+  "author": "Aleš Spurný",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
